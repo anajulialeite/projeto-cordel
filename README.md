@@ -3,3 +3,7 @@
 <img src="imagens/HTML-CSS.png" alt="CSS-HTML" align="left" width="90">
 
 Este é o link do meu projeto: https://anajulialeite.github.io/projeto-cordel/
+
+# License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
