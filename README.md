@@ -2,9 +2,9 @@
 
 <img src="imagens/HTML-CSS.png" alt="CSS-HTML" align="center" width="90">
 
-## demonstração
+## Demonstração
 
-
+<img src="imagens/Carta.png" alt="icon" align="center" width="300"/>
 
 ## Link do projeto
 
