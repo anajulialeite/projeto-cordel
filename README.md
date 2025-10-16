@@ -1,5 +1,7 @@
 # Projeto Cordel
 
+Este foi mais um projeto feito no CursoemVídeo com o professor Gustavo Guanabara e contém o poema de Miltom Duarte, esse poema é de domínio público e foi liberado para os alunos poderem usar seu poema e ajudar na divulgação. No link do site oficial dentro do projeto tem os agradecimentos do próprio autor do poema.
+
 <img src="imagens/HTML-CSS.png" alt="CSS-HTML" align="center" width="90">
 
 ## Demonstração
