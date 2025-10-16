@@ -8,7 +8,7 @@
 
 ## Link do projeto
 
-Este é o link do meu projeto: https://anajulialeite.github.io/projeto-cordel/
+Este é o link do projeto <a href= "https://anajulialeite.github.io/projeto-cordel/">Cordel</a>
 
 ## License
 
